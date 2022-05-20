@@ -1,0 +1,128 @@
+
+@media (max-width: 575.98px) { 
+
+    .navbar{
+        background: #fff !important;
+    }
+    .menubg{
+        background: #fff !important;
+        box-shadow: none;
+    }
+    #sliderOne {
+        background-size: cover;
+        background-position:0;
+        padding: 150px 0px;
+    }
+    .slide-oneText {
+       padding: 0px;
+    }
+    .slide2-text{
+        padding: 250px 20px;
+    }
+    #slide-3{
+        background-size: cover !important;
+         background-position: 0%;
+        background-repeat: no-repeat;
+        padding: 200px 0;
+    }
+    .slide3-content {
+    padding: 0px;
+    }
+    #slide-4 {
+        background-image: url(img/slide4.png);
+         background-position: ;
+         background-size: ;
+        background-repeat: no-repeat;
+        padding: 150px 0px;
+    }
+    .slide4-content {
+        padding: 0;
+    }
+    #slide-5 {
+        background-image: url(img/slide4.png);
+         background-position: ;
+         background-size: ;
+        background-repeat: no-repeat;
+        padding: 150px 0px;
+    }
+    .slide5-content {
+        padding: 0;
+    }
+    #slide-6 {
+        background-image: url(img/slide4.png);
+         background-position: ;
+         background-size: ;
+        background-repeat: no-repeat;
+        padding: 150px 0px;
+    }
+    .slide6-content {
+        padding: 0;
+    }
+    .scrollup {
+        width: 40px;
+        height: 40px;
+    }
+    #footer-top {
+        background-color: #343a40!important;
+        padding: 50px 0px;
+        color: #fff;
+    }
+}
+
+@media (max-width: 767.98px) { 
+    .navbar{
+        background: #fff !important;
+    }
+    .menubg{
+        background: #fff !important;
+        box-shadow: none;
+    }
+    #sliderOne {
+        padding: 250px 0px;
+    }
+    .slide-oneText {
+        padding: 0px;
+     }
+     .slide2-text{
+         padding: 250px 0px;
+     }
+     .slide3-content {
+        padding: 10px 0px;
+    }
+    .slide4-content {
+        padding: 200px 0px;
+    }
+    .slide5-content {
+        padding: 200px 0;
+    }
+    .slide6-content {
+        padding: 200px 0px;
+    }
+}
+
+@media (max-width: 991.98px) { 
+    .navbar{
+        background: #fff !important;
+    }
+    .menubg{
+        background: #fff !important;
+        box-shadow: none;
+    }
+    .footer-content h5 {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+}
+
+
+@media (max-width: 1199.98px) { 
+    .slide-oneText {
+        padding: 150px 0px;
+    }
+
+}
+
+@media (max-width: 1399.98px) { 
+
+}
